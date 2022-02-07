@@ -7,3 +7,6 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![rodionbgd's github stats](https://github-readme-stats.vercel.app/api?username=rodionbgd&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=prussian)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rodionbgd)
